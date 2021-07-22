@@ -8,6 +8,7 @@
 
 ### **A prototype of a mobile app for teaching children:** [APEDC](https://github.com/tarcisioribeiro/APEDC)
 ### **A simple and initial game made with Unity engine**: [OlaUnity](https://github.com/tarcisioribeiro/OlaUnity) 
+### **An educational game developed jointly by a group of students, with its plot focusing on Zé Gotinha's fight against Covid-19:** [Zé Gotinha - Missão Covid-19](https://github.com/elyprado/JogoZeGotinhaUniFACEF)
 
 ## 📫 How to reach me:
 
