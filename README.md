@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently graduating as a Software Engineer.
 - 🌱 I’m currently learning Python.
-- 🐍 A Python lover.
+- ![python-original](https://user-images.githubusercontent.com/81392077/126779015-3d2ad1be-0281-4d7d-ad28-4baa71c6001d.png) A Python lover.
 ---
 ## Some of my projects and contributions:
 
