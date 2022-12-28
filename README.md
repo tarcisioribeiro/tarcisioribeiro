@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I'm currently graduating as a Software Engineer.
+- 🔭 I'm a newly graduated Software Engineer.
 - 🌱 I’m currently learning Python.
 
 ---
