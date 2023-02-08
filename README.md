@@ -17,8 +17,6 @@
 
 ## 📫 How to reach me
 
-- ### **Linkedin**: [Tarcísio Ribeiro](https://www.linkedin.com/in/tarcisio-ribeiro-a3b099196/)
-
 - ### **Facebook**: [Tarcísio Ribeiro](https://www.facebook.com/tarcisio.ribeiro.1840)
 
 - ### **Instagram**: [tj.ribeiro.98](https://www.instagram.com/tj.ribeiro.98/)
