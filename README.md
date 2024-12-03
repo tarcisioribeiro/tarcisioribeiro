@@ -15,7 +15,7 @@
 
 ---
 
-## 📫 How to reach me
+<!-- ## 📫 How to reach me
 
 - ### **Facebook**: [Tarcísio Ribeiro](https://www.facebook.com/tarcisio.ribeiro.1840)
 
@@ -23,4 +23,4 @@
 
 - ### **YouTube**: [Tarcísio Ribeiro](https://www.youtube.com/channel/UCcgti2Nb-xCb6ZAwziXt_4g)
 
----
+--- -->
