@@ -6,6 +6,7 @@
 ---
 
 ## Some of my projects and contributions
+- ### **A password manager build with Streamlit:** [StreamFort](https://github.com/tarcisioribeiro/StreamFort)
 
 - ### **A prototype of a mobile app for teaching children:** [AlfabetizeAi](https://github.com/tarcisioribeiro/APEDC)
 
