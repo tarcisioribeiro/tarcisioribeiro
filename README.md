@@ -8,6 +8,10 @@
 ## Some of my projects and contributions
 - ### **A password manager build with Streamlit:** [StreamFort](https://github.com/tarcisioribeiro/StreamFort)
 
+- ### **A finances manager build with Streamlit:** [StreamFort](https://github.com/tarcisioribeiro/Expenselit)
+
+- ### **A RESTful API build with Django and Django Rest Framework:** [StreamFort](https://github.com/tarcisioribeiro/flix-api)
+
 - ### **A prototype of a mobile app for teaching children:** [AlfabetizeAi](https://github.com/tarcisioribeiro/APEDC)
 
 - ### **A simple and initial game made with Unity engine**: [OlaUnity](https://github.com/tarcisioribeiro/OlaUnity)
