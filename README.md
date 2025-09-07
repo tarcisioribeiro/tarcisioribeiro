@@ -2,11 +2,15 @@
 
 - 🔭 I'm a newly graduated Software Engineer.
 - 🌱 I’m currently learning Python.
+- I'm working as a Full Stack Developer on [Uni Marketplace](https://pg.universidademarketplaces.com.br/),
+  developing AI micro-saas's.
 
 ---
 
 ## Some of my projects and contributions
 - ### **A password manager build with Streamlit:** [StreamFort](https://github.com/tarcisioribeiro/StreamFort)
+
+- ### **A notation's manager, build with Streamlit, Django Rest Framework and PostgreSQL**: [CodexDB](https://github.com/tarcisioribeiro/StreamFort)
 
 - ### **A finances manager build with Streamlit:** [Expenselit](https://github.com/tarcisioribeiro/Expenselit)
 
