@@ -110,58 +110,6 @@ Comprehensive monorepo application featuring automated content generation for mu
 
 ---
 
-### 📊 [ExpenseLit](https://github.com/tarcisioribeiro/ExpenseLit)
-**AI-Enhanced Personal Finance Management System**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-Complete personal finance management platform with separate Django REST API backend and Streamlit frontend. Features an AI financial assistant powered by GPT-4 with semantic search capabilities and anomaly detection.
-
-**Key Features:**
-- Comprehensive financial tracking (bank accounts, credit cards, expenses, revenues, loans)
-- Fernet encryption for sensitive data (CVV protection)
-- AI Financial Assistant using GPT-4 with RAG
-- Anomaly detection with statistical analysis (Z-score)
-- Pattern analysis with linear regression
-- Advanced metrics using PostgreSQL window functions
-- 17+ expense categories and 9 revenue categories
-- JWT authentication with refresh tokens
-
-**Tech Highlights:** Django 5.2, DRF, SimpleJWT, Streamlit, pgvector, OpenAI embeddings, Plotly visualization, Docker Compose
-
----
-
-### 📚 [CodexDB](https://github.com/tarcisioribeiro/CodexDB)
-**Intelligent Library Management System with AI Query Capabilities**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-Personal library management system with advanced cataloging and intelligent query capabilities using AI. Combines Django REST API backend with Streamlit frontend and RAG for smart book queries.
-
-**Key Features:**
-- Complete book, article, and essay cataloging
-- Author and publisher management
-- Reading session tracking with progress monitoring
-- AI assistant using RAG for intelligent book queries
-- Vector search with embeddings for semantic searches
-- JWT authentication and permission control
-- Statistics and reading metrics
-- Docker containerization with PostgreSQL + pgvector
-
-**Tech Highlights:** Django 5, DRF, LangChain, Groq API, HuggingFace Transformers, pgvector, semantic search
-
----
-
 ### 🏎️ [F1 Dashboard](https://github.com/tarcisioribeiro/fastf1-react)
 **Interactive Formula 1 Data Visualization Platform**
 
@@ -183,6 +131,60 @@ Real-time Formula 1 data dashboard using React frontend and Flask + FastF1 backe
 - Interactive tables and visual components
 
 **Tech Highlights:** React 18, TypeScript, Vite, Flask, FastF1, Pandas, SQLite, Axios
+
+---
+
+### 📰 [KulturKampf](https://github.com/tarcisioribeiro/kulturkampf)
+**Content Hub Platform for Writers**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Hub de conteúdo centralizado para escritores das comunidades Valete e Substack. Plataforma para organizar perfis de autores, publicações e métricas de produtividade.
+
+**Key Features:**
+- Author profile management with Valete and Substack integration
+- Publication tracking across multiple platforms
+- Productivity metrics and statistics
+- Collections system for organizing articles
+- Image attachments and post-it notes for collaboration
+- Advanced search and filtering (author, platform, topic, date)
+- Markdown support with preview
+- JWT authentication with rate limiting and token blacklist
+- API documentation with Swagger/OpenAPI
+
+**Tech Highlights:** Django 5.0, DRF, React 18, Vite, JWT authentication, soft delete pattern, PostgreSQL 16, Storybook UI development, pytest + vitest testing
+
+---
+
+### 💰 [PersonalHub](https://github.com/tarcisioribeiro/PersonalHub)
+**Comprehensive Personal Finance Management System**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Complete personal finance management platform with separate Django REST API backend and React + TypeScript frontend. Features comprehensive financial tracking with security-first approach.
+
+**Key Features:**
+- Bank accounts and credit card management
+- Expense and revenue tracking with categorization
+- Loan management with installment tracking
+- Transfer operations between accounts
+- Fernet encryption for sensitive data (card numbers, CVV)
+- JWT authentication with HttpOnly cookies
+- Dashboard with financial statistics and visualizations
+- Extended modules: password manager, library tracking, AI assistant
+- Advanced filtering and reporting
+- Backup and restore functionality
+
+**Tech Highlights:** Django 5, DRF, React 19, TypeScript, TailwindCSS, Radix UI, Zustand state management, Fernet encryption, React Hook Form + Zod validation
 
 ---
 
@@ -208,27 +210,6 @@ Complete business management platform for agricultural machinery services specia
 - Docker optimization with multi-stage builds
 
 **Tech Highlights:** Django 5.2, PostgreSQL 16, Gunicorn + Gevent, Docker, vanilla JavaScript
-
----
-
-### 🔐 [StreamFort](https://github.com/tarcisioribeiro/StreamFort)
-**Secure Password Manager & Confidential Information Storage**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Password manager and confidential information storage application built with Streamlit framework. Designed for secure local network deployment.
-
-**Key Features:**
-- Multi-type storage (passwords, files, credit cards, bank accounts)
-- MySQL database integration
-- Streamlit interface for easy interaction
-- Image upload for visual identification
-- Query and registration of confidential data
-- Local network deployment optimized
-
-**Tech Highlights:** Streamlit, MySQL, Python cryptography, MIT licensed
 
 ---
 
@@ -291,6 +272,34 @@ Automated Linux Mint setup with i3 window manager configuration, tailored for pr
 - Detailed keybinding documentation
 
 **Tech Highlights:** Bash scripting, i3wm, Dracula theme, ZSH configuration, system administration
+
+---
+
+### 📚 [Studies Repository](https://github.com/tarcisioribeiro/Studies)
+**Personal Learning and Course Materials**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+Repository containing course materials, exercises, and learning projects across multiple technologies. Includes completed certifications and hands-on projects.
+
+**Contents:**
+- **Python**: Structured course exercises (3 Mundos), interactive games with pygame, automation utilities
+- **HTML/CSS**: HTML5 and CSS3 course materials with exercises and challenges
+- **PHP**: Basic PHP exercises and projects
+- **Unity**: 2D game development projects with animations and tilesets
+- **Certificates**: Angular, Flutter, Git/GitHub, Linux, MySQL, Python
+
+**Featured Projects:**
+- Adventure game with audio and emoji support (pygame)
+- Password generator automation (pyautogui)
+- 2D desert platformer game (Unity)
+- Custom Python modules and package structures
+
+**Tech Highlights:** pygame, emoji, pyautogui, Unity Animator, tileset-based design, modular Python architecture
 
 ---
 
